@@ -23,24 +23,3 @@ Password Strength: Very Strong (100%)
 Strength: █████
 
 ````
-
-## How to Run
-1. Install [.NET SDK](https://dotnet.microsoft.com/download).  
-2. Clone the repo:
-```bash
-git clone https://github.com/USERNAME/PasswordChecker.git
-````
-
-3. Navigate to the folder:
-
-```bash
-cd PasswordChecker
-```
-
-4. Run:
-
-```bash
-dotnet run
-```
-
-
